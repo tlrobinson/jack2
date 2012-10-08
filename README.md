@@ -1,4 +1,4 @@
-jack2
-=====
+Jack 2
+======
 
-Jack HTTP middleware for Node.js/Q-JSGI/JSGI2
+Work in Progress.
